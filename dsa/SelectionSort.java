@@ -1,5 +1,5 @@
 package dsa;
-
+//selection sort algorithm
  class SelectionSort {
 public static <T extends Number>void selectionSort(T [] arr)
 {
